@@ -1,0 +1,9 @@
+[package]
+name = "many_types"
+version = "0.1.0"
+authors = ["Tomasz Kłak <tomasz@tomaszklak.pl>"]
+
+[dependencies]
+serde = "1.0.10"
+serde_cbor = "0.6.0"
+serde_derive = "1.0.10"

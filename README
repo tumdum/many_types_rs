@@ -1,0 +1,4 @@
+Created with https://gist.github.com/tumdum/e073d6e9a487b4cb02fc3d94074ffa6a
+
+It takes ~180s of CPU time and ~3000M of RSS to compile when 500 types are
+generated (which is current commited Types count).
